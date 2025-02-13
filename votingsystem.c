@@ -13,5 +13,5 @@ int main() {
     scanf (" %c", &citizen):
 
     if (age >-18&& (citizen -- 'y' || citizen -- 'y')) {
-    printf(you are eligible to vote.\n"): 
+    printf(you are eligible to vote.\n "):
         
